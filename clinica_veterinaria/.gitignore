@@ -1,5 +1,11 @@
 HELP.md
 
+# Ignore macOS system files
+.DS_Store
+
+# Ignore JetBrains IDE files
+.idea/
+
 
 ### STS ###
 .apt_generated
