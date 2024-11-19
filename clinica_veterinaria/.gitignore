@@ -1,10 +1,15 @@
-HELP.md
-
-# Ignore macOS system files
+# Archivos del sistema operativo
 .DS_Store
 
-# Ignore JetBrains IDE files
+# Archivos de configuración de IDE
 .idea/
+
+# Archivos de construcción de Java/Maven
+target/
+*.jar
+
+# Archivos Docker
+docker-compose.yml
 
 
 ### STS ###
